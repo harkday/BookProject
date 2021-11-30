@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace BookLibraryModel.Models
+{
+    public class User : BaseEntity
+    {
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public string Email { get; set; }
+        public byte[] PasswordHash { get; set; } 
+        public byte[] PasswordSalt { get; set; }
+
+        public ICollection<UserRole> UserRoles { get; set; }
+        public ICollection<UserBook> UserBooks { get; set; }
+    }
+}

@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\SimpleAppSolution\BookLibraryModel\bin\Debug\net5.0\BookLibraryModel.deps.json
+C:\Users\hp\Desktop\SimpleAppSolution\BookLibraryModel\bin\Debug\net5.0\BookLibraryModel.dll
+C:\Users\hp\Desktop\SimpleAppSolution\BookLibraryModel\bin\Debug\net5.0\ref\BookLibraryModel.dll
+C:\Users\hp\Desktop\SimpleAppSolution\BookLibraryModel\bin\Debug\net5.0\BookLibraryModel.pdb
+C:\Users\hp\Desktop\SimpleAppSolution\BookLibraryModel\obj\Debug\net5.0\BookLibraryModel.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\SimpleAppSolution\BookLibraryModel\obj\Debug\net5.0\BookLibraryModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\SimpleAppSolution\BookLibraryModel\obj\Debug\net5.0\BookLibraryModel.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\SimpleAppSolution\BookLibraryModel\obj\Debug\net5.0\BookLibraryModel.AssemblyInfo.cs
+C:\Users\hp\Desktop\SimpleAppSolution\BookLibraryModel\obj\Debug\net5.0\BookLibraryModel.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\SimpleAppSolution\BookLibraryModel\obj\Debug\net5.0\BookLibraryModel.dll
+C:\Users\hp\Desktop\SimpleAppSolution\BookLibraryModel\obj\Debug\net5.0\ref\BookLibraryModel.dll
+C:\Users\hp\Desktop\SimpleAppSolution\BookLibraryModel\obj\Debug\net5.0\BookLibraryModel.pdb
